@@ -1,0 +1,86 @@
+日下=Kusaka
+杏里=Anri
+
+田所=Tadokoro
+有梨佳=Yurika
+
+美杉=Misugi
+夏凜=Karin
+
+柳瀬=Yanase
+香=Kaori
+
+櫻井=Sakurai
+恵莉佳=Erika
+
+鈴原=Suzuhara
+火織=Hiori
+
+鳴海=Narumi
+京香=Kyoka
+
+的場=Matoba
+澪=Mio
+
+白藤=Shirafuji
+アカネ=Akane
+
+藤村=Fujimura
+つぐみ=Tsugumi
+
+北野=Kitano
+美結=Miyu
+
+牛島=Ushijima
+佳奈=Kana
+
+秋園=Akizono
+聖=Hijiri
+
+石岡=Ishioka
+灯里=Akari
+
+津村=Tsumura
+さくら=Sakura
+
+浅倉=Asakura
+心音=Kokone
+
+日下 杏里=Anri Kusaka
+田所 有梨佳=Yurika Tadokoro
+美杉 夏凜=Karin Misugi
+柳瀬 香=Kaori Yanase
+櫻井 恵莉佳=Erika Sakurai
+鈴原 火織=Hiori Suzuhara
+鳴海 京香=Kyoka Narumi
+的場 澪=Mio Matoba
+白藤 アカネ=Akane Shirafuji
+藤村 つぐみ=Tsugumi Fujimura
+北野 美結=Miyu Kitano
+牛島 佳奈=Kana Ushijima
+秋園 聖=Hijiri Akizono
+石岡 灯里=Akari Ishioka
+津村 さくら=Sakura Tsumura
+浅倉 心音=Kokone Asakura
+
+日下\n杏里=Anri\nKusaka
+田所\n有梨佳=Yurika\nTadokoro
+美杉\n夏凜=Karin\nMisugi
+柳瀬\n香=Kaori\nYanase
+櫻井\n恵莉佳=Erika\nSakurai
+鈴原\n火織=Hiori\nSuzuhara
+鳴海\n京香=Kyoka\nNarumi
+的場\n澪=Mio\nMatoba
+白藤\nアカネ=Akane\nShirafuji
+藤村\nつぐみ=Tsugumi\nFujimura
+北野\n美結=Miyu\nKitano
+牛島\n佳奈=Kana\nUshijima
+秋園\n聖=Hijiri\nAkizono
+石岡\n灯里=Akari\nIshioka
+津村\nさくら=Sakura\nTsumura
+浅倉\n心音=Kokone\nAsakura
+
+亮=Ryo
+陣内=Jinnai
+陣内 亮=Ryo Jinnai
+陣内\n亮=Ryo\nJinnai

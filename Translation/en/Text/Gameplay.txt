@@ -1,0 +1,27 @@
+『甘夏ろけーしょん』はプライベートなリゾート地で女の子と触れ合い、仲を深めていく３Dロケーションシミュレーターです。\n様々なロケーションを楽しむ為にも、まずは触れ合う女の子達の登録から始めてみましょう。=『Sweet Summer Love Simulation』 is a 3D location simulator where you can interact with girls and deepen your relationships in a private resort setting. To enjoy various locations, let's start by registering the girls you wish to interact with.
+女の子達の登録・編集はこちらのアイコンから行う事ができます。\nアイコンをクリックし、画面を開いてみましょう。\n=You can register and edit the information for the girls through this icon. Click on the icon to open the interface.\n
+〉選択解除モード=〉Select Uninstallation Mode
+〉ペア編集モード=> Pair Editing Mode
+選択した女の子は下の「登録」ボタンをクリック、または選択したキャラカード上でダブルクリックをする事で登録が出来ます。\n今回は「登録」ボタンから登録してみましょう。=The selected girl can register by clicking the "Register" button below or by double-clicking on the selected character card. Let's try registering through the "Register" button this time.
+登録が完了した女の子は左の枠に表示されます。\n最大30人まで登録することが出来ますが、本チュートリアルでは先ほど登録をした女の子のみで進行をしていきます。=The girls who have completed registration will be displayed in the left panel. A maximum of 30 people can register, but for this tutorial, we will proceed using only the girls who registered earlier.
+登録を解除したい場合は、解除したい女の子を選択した状態で「解除」ボタンをクリックすることで登録解除出来ます。\n<color\=orange>※解除された女の子はゲーム内の進行度やパラメータが初期化されますのでご注意下さい\n</color>=If you wish to cancel your registration, simply click the "Cancel" button while selecting the girl you want to unregister from.\n<color\=orange>Please note that for girls whose accounts have been canceled, their in-game progress and parameters will be reset to their initial values.\n</color>
+以上が女の子の登録までの流れとなります。\n「閉じる」ボタンをクリックしホーム画面に戻りましょう。=This concludes the process for registering a female user. Please click the “Close” button to return to the home screen.
+続きまして、登録した女の子のいるマップに行ってみましょう。\n登録された女の子は基本的にランダムで各マップに振り分けられます。\n今回はプールに出現しているようなので画面内のプール施設にカーソルをあわせてみましょう。=Next, let's go to the map where the registered girls are located. Basically, the registered girls are randomly distributed across various maps. Since they seem to appear by the pool this time, let's hover the cursor over the pool facility on the screen.
+各施設にカーソルをあわせると画面上部にどの女の子が出現しているかが確認出来ます。\nプールに先ほど登録した女の子がいることが確認出来ましたので、そのままプールを選択し、マップに入ってみましょう。=When you hover the cursor over each facility, you can see which girl is appearing at the top of the screen. Since we can see that the girl we registered earlier is at the pool, let's select the pool and enter the map.
+移動しますか？=Are you moving?
+また会話やマッサージを繰り返す事で「包容力」「積極性」「好奇心」のパラメータが変動していきます。\n試しに会話系のコマンドを選択してみましょう。=By repeatedly engaging in conversations and receiving massages, the parameters of "empathy," "initiative," and "curiosity" will gradually change. Let's give it a try and select a conversation-related command.
+「包容力」「積極性」「好奇心」のパラメータは一定値以上貯める事で段階が増えていきます。\n段階が増えるごとに「親密度」が上昇し、「親密度」が上昇し切ると特別なイベントを見ることが出来ます。\nまた各パラメータの段階が増えるとエッチの体位の追加・システムが解放されるなどの特典があります。=By accumulating values above a certain threshold for the parameters "inclusiveness," "proactivity," and "curiosity," you will progress through various stages. With each increase in stage, the level of "affinity" will rise, and once it reaches a certain level, you will be able to experience special events. In addition, as each parameter advances, you will receive benefits such as the addition of more intimate positions and the unlocking of new system features.
+各種コマンドの使用回数には制限があり、1回行動する事で下の砂時計が１つ消費されます。\nこの砂時計が全て消費された場合は会話系やマッサージなどのコマンドが使用不可となります。\n砂時計は次の時間帯へ移ることでリセットされます。=There is a limit to the number of times each command can be used; performing an action will consume one of the sand clocks below. Once all the sand clocks are used up, commands such as conversation and massage will become unavailable. The sand clocks can be reset by transitioning to the next time period.
+また女の子との接触はコマンドが表示されている状況であればいつでも終了することが出来ます。\nコマンドの使用回数はまだ残っていますが、今回は女の子との接触を終了させてみましょう。=Additionally, any contact with the girl can be terminated at any time when the command is displayed. Although there are still some commands remaining, let's end the contact with the girl this time.
+最後に一度ホーム画面に戻りましょう。\nマップ中の画面上のボタンからいつでもホーム画面に戻ったり、次の時間帯へ進むことが出来ます。=Let's return to the home screen one last time. You can always return to the home screen or move on to the next time zone by using the buttons on the screen.
+以上で本チュートリアルは終了となります。\nここからは自由な甘い夏のひと時、「甘夏ろけーしょん」をお楽しみください。=This concludes the tutorial. From now on, please enjoy these free, sweet summer moments: "Sweet Summer Relaxation."
+ショッピングエリア=Shopping Area
+噴水広場=Fountain Square
+ビーチ=Beach
+水上コテージ=Waterfront Cottage
+不明=Unknown
+ドラッグで塗る=Apply with a brush.
+マッサージを終了しますか？=Would you like to finish the massage?
+チュートリアルを見ますか？=Would you like to watch the tutorial?
+施設内にいる女の子達は自由気ままに行動をします。\nプレイヤーは画面内でカメラを操作し、女の子達の行動を観察したり接触することが出来ます。=The girls inside the facility act freely. Players can control the camera within the screen to observe their behavior or interact with them.
+早速画面内の女の子をクリックし、接触を試みてみましょう。\nもし女の子達が見つかりにくい場合は、カメラ操作をしたり画面上部の視点変更ボタンを活用する事で見つけやすくなるかもしれません。=Quickly click on the girl in the screen and try to establish contact. If it's difficult to find the girls, you might be able to locate them more easily by adjusting the camera settings or using the view-changing buttons at the top of the screen.

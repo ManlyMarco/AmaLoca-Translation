@@ -1,0 +1,17 @@
+エッチ=H-Scene
+1日ごと=Daily
+女性のサンプルテキストを表示しています=This is a sample text for girls.
+オートセーブ=Auto-save
+※ 設定はゲーム内で次の時間帯に適用されます。=※ In-game changes take effect next time period.
+Hキーで戻ります=Return using the H key.
+追加要素=Additional elements
+キャラ登録=Character Registration
+ホーム=Home
+の初期化判断=Reset Decision
+汁表現=Juices
+潮吹き表現=Squirting
+を見る=Show
+簡体字=Simplified Chinese
+繁体字=Traditional Chinese
+カメラを見る=At camera
+カメラの初期化判断=Camera Reset Decision

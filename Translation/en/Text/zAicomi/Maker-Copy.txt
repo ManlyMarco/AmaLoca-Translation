@@ -1,0 +1,13 @@
+制服=Uniform
+リップ=Lip
+アイシャドウ=Eye Shadow
+チーク=Blush
+コーデコピー (Face makeup)=Coord copy (Face makeup)
+コーデコピー=Coord copy
+私服=Casual
+足のネイル=Toenail
+手のネイル=Fingernail
+コーデコピー (Body makeup)=Coord copy(Body makeup)
+コーデコピー (Hairstyle)=Coord copy(Hairstyle)
+コーデコピー (Costume)=Coord copy(Costume)
+コーデコピー (Accessory)=Coord copy (accessory)

@@ -1,0 +1,24 @@
+// c00
+普通=Ordinary
+// c01
+しっかり者=Responsible
+// c02
+元気=Energetic
+// c03
+クール=Cool
+// c04
+世話好き=Caring
+// c05
+ギャル=Gyaru
+// c06
+僕っ子=Boyish
+// c07
+姉御肌=Big-sisterly
+// c08
+清楚=Neat and clean
+// c09
+健気=Strong and healthy
+// c10
+お嬢様=Ojousama
+// c11
+大人しい=Gentle and quiet

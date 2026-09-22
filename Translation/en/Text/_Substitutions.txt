@@ -1,0 +1,8 @@
+// Deal with some in-game dialogue having a trailing space that doesn't get automatically trimmed by AT.
+// Needs to be done before the total space replacement
+」　=」
+//　「=「
+
+// The game sometimes uses wide and normal spaces interchangeable for some translations, e.g. with character names.
+// Make sure that config has this set: GenerateStaticSubstitutionTranslations=True
+　= 

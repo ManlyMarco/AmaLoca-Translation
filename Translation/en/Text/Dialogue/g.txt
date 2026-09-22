@@ -1,0 +1,13 @@
+ベッド=Bed
+挿入=Insert
+（…………ん？）=(…………Huh?)
+終了=End
+フェラ=Fela
+ここで一眠りするのも気持ちよさそうだ=It must be quite pleasant to take a short nap here.
+休む=Take a break.
+休まない=Never stops
+少し寝よう=Let's take a short nap.
+イベント発生しなかった=No event occurred.
+寝込み襲いイベント=Sudden Illness Event
+選択肢イベント=Option Event
+気持ちよく眠れた=I slept very well.

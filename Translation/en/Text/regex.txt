@@ -1,0 +1,15 @@
+r:"^艶([０-９0-9]+)$"=Gloss $1
+
+r:"^付け毛([０-９0-9]+)\(左\)\[FK\]$"=Hair Extension $1 (L) [FK]
+r:"^付け毛([０-９0-9]+)\(右\)\[FK\]$"=Hair Extension $1 (R) [FK]
+r:"^付け毛([０-９0-9]+)\(束\)\[FK\]$"=Hair Extension $1 (B) [FK]
+r:"^付け毛([０-９0-9]+)\[FK\]$"=Hair Extension $1 [FK]
+r:"^付け毛([０-９0-9]+)\(左\)$"=Hair Extension $1 (L)
+r:"^付け毛([０-９0-9]+)\(右\)$"=Hair Extension $1 (R)
+r:"^付け毛([０-９0-9]+)\(束\)$"=Hair Extension $1 (B)
+
+r:"^\(調整\)([０-９0-9]+)$"=(Adjustment) $1
+
+r:"^水着セット([０-９0-9]+)$"=Swimwear $1
+
+sr:"^姿勢：(.+)$"=Position: $1

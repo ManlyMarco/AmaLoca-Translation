@@ -8,8 +8,19 @@ r:"^付け毛([０-９0-9]+)\(左\)$"=Hair Extension $1 (L)
 r:"^付け毛([０-９0-9]+)\(右\)$"=Hair Extension $1 (R)
 r:"^付け毛([０-９0-9]+)\(束\)$"=Hair Extension $1 (B)
 
-r:"^\(調整\)([０-９0-9]+)$"=(Adjustment) $1
+sr:"^●(\w+)アクセサリー調整メニュー●$"=$1 Accessory Adjustment Menu
+sr:"$^図柄（(.+)）$"=Design ($1)
+sr:"$ハイライト([０-９0-9]+)の(\w+)$"=Highlight $1 $2
 
+r:"^\(調整\)([０-９0-9]+)$"=(Adjustment) $1
 r:"^水着セット([０-９0-9]+)$"=Swimwear $1
 
 sr:"^姿勢：(.+)$"=Position: $1
+
+// Split H Preferences on the right in maker
+sr:"^(\w+)\r\n(\w+)\r\n$"=$1\r\n$2\r\n
+
+// Names are commonly joined together into a single string which can't be easily targeted
+// in some places a space is used while in other \n is used
+// WARNING: This can have side effects when dumping new strings with spaces/newlines!
+sr:"^(\w+)([\n ])(\w+)$"=$1$2$3

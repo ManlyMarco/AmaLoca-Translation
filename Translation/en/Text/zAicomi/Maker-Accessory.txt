@@ -11,7 +11,7 @@
 ※お泊り時の表示・非表示=※ When staying overnight
 ※風呂時の表示・非表示=※ When taking a bath
 ※Hシーン時の表示・非表示=※ When having sex
-表示タイミング=Display when clothes are
+表示タイミング=When to show this part
 対象の服=Target outfit
  服装の状態への関連付け設定=    Sync with clothing state
 直前と同じ部位に装着する=Keep attachment area

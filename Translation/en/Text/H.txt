@@ -11,3 +11,5 @@
 キャラの移動=Character Movement
 マウスの操作感度=Mouse sensitivity
 ホイール上で再開始 / ホイール下で引き抜く=Scroll Up to restart / Down to pull out
+飲ませる=Drink it
+エッチを終了しますか？=Would you like to end the scene?

@@ -53,7 +53,7 @@
 ジト目=Jitome Eyes
 八重歯=Fangs
 エルフ耳=Elf Ears
-日焼け=Sunburn
+日焼け=Tanlines
 :全項目=: All Items
 テーマカラー=Theme Color
 衣装カラー=Costume Color

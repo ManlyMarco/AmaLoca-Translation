@@ -169,7 +169,7 @@
 ハイライトの縦幅=Highlight Thickness
 ハイライトの横幅=Highlight Width
 ハイライトの左右位置=Highlight Horizontal Position
-ハイライトの上下位置=Highlights Vertical Position
+ハイライトの上下位置=Highlight Vertical Position
 鼻の種類=Nose Type
 鼻の詳細=Nose Details
 口の種類=Mouth Type
